@@ -8,3 +8,4 @@ for i in rage(255):
         hasil = sha1(pwd).hexdigest()
         if result == hasil: 
             print(pwd.decode())
+            
